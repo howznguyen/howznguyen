@@ -20,10 +20,13 @@ jobs:
       env:
         BRANCH_NAME: ${{ github.ref_name }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         COMMIT_MESSAGE: "🚀 update metrics"
         # COMMIT_USER_NAME: "howznguyen"
         # COMMIT_USER_EMAIL: "duyntp2000@gmail.com"
-        SHOW_METRICS: "COMMIT_TIME_OF_DAY,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK"
+        WAKATIME_RANGE: "last_30_days"
+        WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
+        SHOW_METRICS: "COMMIT_TIMES_OF_DAY,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME"
         TIME_ZONE: "Asia/Ho_Chi_Minh"
         TIME_LAYOUT: "2006-01-02 15:04:05 MST"
         SHOW_LAST_UPDATE: "true"
