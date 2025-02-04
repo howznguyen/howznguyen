@@ -16,7 +16,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Run GitHub Stats Action
-      uses: howznguyen/github-stats@master
+      uses: howznguyen/github-stats@develop
       env:
         BRANCH_NAME: ${{ github.ref_name }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
