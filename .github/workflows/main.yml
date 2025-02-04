@@ -22,8 +22,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         COMMIT_MESSAGE: "🚀 update metrics"
-        # COMMIT_USER_NAME: "howznguyen"
-        # COMMIT_USER_EMAIL: "duyntp2000@gmail.com"
+        COMMIT_USER_NAME: "howznguyen"
+        COMMIT_USER_EMAIL: "duyntp2000@gmail.com"
         WAKATIME_RANGE: "last_30_days"
         WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
         SHOW_METRICS: "COMMIT_TIMES_OF_DAY,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME"
