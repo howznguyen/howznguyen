@@ -55,7 +55,6 @@ Feel free to reach out for collaboration or discussion!
 <div>
   <a href="https://github.com/howznguyen?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howznguyen&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@howznguyen"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=howznguyen&layout=compact&theme=react&langs_count=6" /></a>
 </div>
 
 ---
