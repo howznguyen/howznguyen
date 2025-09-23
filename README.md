@@ -1,67 +1,68 @@
+# 👋 Hello!
+
+You can call me **Howz**. I'm a Software Engineer passionate about building scalable web applications and AI-powered solutions.
+
+|                                                                                                                howz.dev                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://howz.dev"><img width="400" alt="Screenshot of howz.dev" src="https://github.com/howznguyen/howz.dev/raw/main/public/assets/images/og.png"></a><br /><a href="https://howz.dev">Visit my personal website and blog</a> |
+
+## About Me
+
+I'm a passionate Software Engineer with experience in full-stack development, AI/ML integration, and system architecture. I love building innovative solutions that solve real-world problems.
+
+**Current Focus:**
+
+- 🚀 Building AI-powered applications with LLM integration
+- 💻 Full-stack development with modern frameworks
+- 🏗️ System architecture and backend optimization
+- 📚 Sharing knowledge through technical writing
+
+## Tech Stack
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)](https://skillicons.dev)
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,expressjs,nestjs,fastapi)](https://skillicons.dev)
+
+### AI/ML & Infrastructure
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes)](https://skillicons.dev)
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)](https://skillicons.dev)
+
+## Let's Connect!
+
+Feel free to reach out for collaboration or discussion!
+
+[![Email](https://img.shields.io/badge/Email-me@howznguyen.dev-blue?style=flat&logo=gmail)](mailto:me@howznguyen.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/howznguyen)
+[![Website](https://img.shields.io/badge/Website-howz.dev-green?style=flat&logo=vercel)](https://howz.dev)
+
+![Profile views](https://komarev.com/ghpvc/?username=howznguyen&color=blue)
+![](https://hit.yhype.me/github/profile?user_id=howznguyen)
+
+## Statistics
+
+<div>
+  <a href="https://github.com/howznguyen?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howznguyen&layout=compact&theme=react&hide=php&langs_count=6" />
+  <a href="https://wakatime.com/@howznguyen"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=howznguyen&layout=compact&theme=react&langs_count=6" /></a>
+</div>
+
+---
+
 <!--START_SECTION:readme-stats-->
-**🕒 I'm An Afternoon Warrior 🥷🏻**
-
-```text
-🌅 Morning                176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85%
-🌞 Daytime                720 commits         ██████████░░░░░░░░░░░░░░░   40.31%
-🌆 Evening                317 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75%
-🌙 Night                  573 commits         ████████░░░░░░░░░░░░░░░░░   32.08%
-```
-
-**🔥 I Mostly Code in JavaScript**
-
-```text
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97%
-HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35%
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52%
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29%
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45%
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45%
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84%
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84%
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84%
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23%
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61%
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61%
-```
-
-**📅 I'm Most Productive on Tuesday**
-
-```text
-Sunday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38%
-Monday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01%
-Tuesday                  325 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20%
-Wednesday                257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39%
-Thursday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
-Friday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97%
-Saturday                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01%
-```
-
-**📊 How I Spent My Time Over the Last 30 Days**
-
-```text
-📝 Editors:
-Cursor                   42 hrs 35 mins      █████████████████░░░░░░░░   68.38%
-VS Code                  19 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.62%
-
-💬 Languages:
-TypeScript               50 hrs 16 mins      ████████████████████░░░░░   80.73%
-Bash                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99%
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27%
-SQL                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
-Prisma                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01%
-Markdown                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53%
-HTML                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30%
-YAML                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26%
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54%
-TSConfig                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44%
-Others                   1 hr 77 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72%
-
-💻 Operating Systems:
-Mac                      62 hrs 16 mins      █████████████████████████   100.00%
-```
-
-
-
-⏳ *Last updated on 2025-09-23 16:17:20 +07*
 <!--END_SECTION:readme-stats-->
+
+---
+
+_"Building the future, one line of code at a time."_ 🚀
