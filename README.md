@@ -21,23 +21,23 @@ I'm a passionate Software Engineer with experience in full-stack development, AI
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)
 
 ### Frontend
 
-[My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap)
 
 ### Backend
 
-[My Skills](https://skillicons.dev/icons?i=laravel,expressjs,nestjs,fastapi)
+![My Skills](https://skillicons.dev/icons?i=laravel,expressjs,nestjs,fastapi)
 
 ### AI/ML & Infrastructure
 
-[My Skills](https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes)
 
 ### Databases
 
-[My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)
 
 ## Let's Connect!
 
