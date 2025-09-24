@@ -2,10 +2,6 @@
 
 You can call me **Howz**. I'm a Software Engineer passionate about building scalable web applications and AI-powered solutions.
 
-|                                                                                                                howz.dev                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://howz.dev"><img width="400" alt="Screenshot of howz.dev" src="https://github.com/howznguyen/howz.dev/raw/main/public/assets/images/og.png"></a><br /><a href="https://howz.dev">Visit my personal website and blog</a> |
-
 ## About Me
 
 I'm a passionate Software Engineer with experience in full-stack development, AI/ML integration, and system architecture. I love building innovative solutions that solve real-world problems.
