@@ -39,7 +39,7 @@ I'm a passionate Software Engineer with experience in full-stack development, AI
 
 Feel free to reach out for collaboration or discussion!
 
-[![Email](https://img.shields.io/badge/Email-me@howznguyen.dev-blue?style=flat&logo=gmail)](mailto:me@howznguyen.dev)
+[![Email](https://img.shields.io/badge/Email-me@howznguyen.dev-blue?style=flat&logo=gmail)](mailto:howznguyen@knowns.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/howznguyen)
 [![Website](https://img.shields.io/badge/Website-howz.dev-green?style=flat&logo=vercel)](https://howz.dev)
 
