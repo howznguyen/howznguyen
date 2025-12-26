@@ -46,13 +46,6 @@ Feel free to reach out for collaboration or discussion!
 ![Profile views](https://komarev.com/ghpvc/?username=howznguyen&color=blue)
 ![](https://hit.yhype.me/github/profile?user_id=howznguyen)
 
-## Statistics
-
-<div>
-  <a href="https://github.com/howznguyen?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=howznguyen&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howznguyen&layout=compact&theme=react&hide=php&langs_count=6" />
-</div>
-
 ---
 
 <!--START_SECTION:readme-stats-->
