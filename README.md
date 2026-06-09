@@ -52,15 +52,15 @@ Feel free to reach out for collaboration or discussion!
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29%
-🌞 Daytime                1,457 commits       ████████████░░░░░░░░░░░░░   47.31%
+🌅 Morning                286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28%
+🌞 Daytime                1,458 commits       ████████████░░░░░░░░░░░░░   47.32%
 🌆 Evening                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23%
-🌙 Night                  837 commits         ███████░░░░░░░░░░░░░░░░░░   27.18%
+🌙 Night                  837 commits         ███████░░░░░░░░░░░░░░░░░░   27.17%
 ```
 
 
 
-⏳ *Last updated on 2026-06-09 15:29:35 +07*
+⏳ *Last updated on 2026-06-09 18:57:20 +07*
 <!--END_SECTION:readme-stats-->
 
 ---
