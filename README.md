@@ -41,7 +41,7 @@ Feel free to reach out for collaboration or discussion!
 
 [![Email](https://img.shields.io/badge/Email-howznguyen@knowns.dev-blue?style=flat&logo=gmail)](mailto:howznguyen@knowns.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/howznguyen)
-[![Website](https://img.shields.io/badge/Website-howz.dev-green?style=flat&logo=vercel)](https://howz.dev)
+[![Website](https://img.shields.io/badge/Website-howznguyen.dev-green?style=flat&logo=vercel)](https://howznguyen.dev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=howznguyen&color=blue)
 ![](https://hit.yhype.me/github/profile?user_id=howznguyen)
