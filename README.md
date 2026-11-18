@@ -1,68 +1,40 @@
-# 👋 Hello!
+# Hi, I'm Howz 👋
 
-You can call me **Howz**. I'm a Software Engineer passionate about building scalable web applications and AI-powered solutions.
+Software engineer in Ho Chi Minh City, founder of [**Knowns**](https://knowns.sh).
+I build tools that let AI coding agents work on real codebases without breaking what the team already decided.
 
-## About Me
+## What I'm building
 
-I'm a passionate Software Engineer with experience in full-stack development, AI/ML integration, and system architecture. I love building innovative solutions that solve real-world problems.
+**[Knowns](https://github.com/knowns-dev/knowns)** · [knowns.sh](https://knowns.sh)
+Tasks, docs, specs and decisions for AI coding agents, kept as markdown in your repo.
+The agent reads the architectural decisions you already made, so it stops undoing them.
 
-**Current Focus:**
+**[Knowns UI](https://github.com/knowns-dev/knowns-ui)** · [ui.knowns.dev](https://ui.knowns.dev)
+The UI kit for AI products: React components and blocks, installed with the shadcn CLI.
 
-- 🚀 Building AI-powered applications with LLM integration
-- 💻 Full-stack development with modern frameworks
-- 🏗️ System architecture and backend optimization
-- 📚 Sharing knowledge through technical writing
+## Open source
 
-## Tech Stack
+| Project | What it does |
+| --- | --- |
+| [shorts-kit](https://github.com/howznguyen/shorts-kit) | Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion |
+| [pi-delegate-mcp](https://github.com/howznguyen/pi-delegate-mcp) | MCP server that turns the pi coding agent into a steerable background worker |
+| [phonedesk](https://github.com/howznguyen/phonedesk) | Turn an old phone into a Stream Deck-style control panel for your Mac or Windows PC |
+| [discord-coding-status](https://github.com/howznguyen/discord-coding-status) | Discord Rich Presence for Claude Code and Codex |
+| [howz.dev](https://github.com/howznguyen/howz.dev) | My website and blog: Next.js, TypeScript, Tailwind CSS and Notion |
 
-### Programming Languages
+Also: [macss.app](https://macss.app), a hand-picked collection of macOS apps that make your Mac feel like yours.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,php,py)
+## Tech stack
 
-### Frontend
+![Languages](https://skillicons.dev/icons?i=ts,js,php,py)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind)
+![Backend](https://skillicons.dev/icons?i=nodejs,bun,nestjs,laravel,fastapi)
+![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform)
+![Databases](https://skillicons.dev/icons?i=postgresql,mysql,firebase)
 
-![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap)
-
-### Backend
-
-![My Skills](https://skillicons.dev/icons?i=laravel,expressjs,nestjs,fastapi)
-
-### AI/ML & Infrastructure
-
-![My Skills](https://skillicons.dev/icons?i=terraform,aws,docker,kubernetes)
-
-### Databases
-
-![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)
-
-## Let's Connect!
-
-Feel free to reach out for collaboration or discussion!
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-howznguyen@knowns.dev-blue?style=flat&logo=gmail)](mailto:howznguyen@knowns.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/howznguyen)
 [![Website](https://img.shields.io/badge/Website-howznguyen.dev-green?style=flat&logo=vercel)](https://howznguyen.dev)
-
 ![Profile views](https://komarev.com/ghpvc/?username=howznguyen&color=blue)
-![](https://hit.yhype.me/github/profile?user_id=howznguyen)
-
----
-
-<!--START_SECTION:readme-stats-->
-**🕒 I'm An Afternoon Warrior 🥷🏻**
-
-```text
-🌅 Morning                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14%
-🌞 Daytime                1,879 commits       ████████████░░░░░░░░░░░░░   46.95%
-🌆 Evening                688 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19%
-🌙 Night                  1,029 commits       ██████░░░░░░░░░░░░░░░░░░░   25.71%
-```
-
-
-
-⏳ *Last updated on 2026-11-01 22:43:12 +07*
-<!--END_SECTION:readme-stats-->
-
----
-
-_"Building the future, one line of code at a time."_ 🚀
